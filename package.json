@@ -1,6 +1,6 @@
 {
   "name": "@akijoey/eslint-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Personal eslint config.",
   "main": "index.js",
   "files": [
@@ -17,7 +17,7 @@
   "keywords": [
     "eslint"
   ],
-  "author": "AkiJoey",
+  "author": "AkiJoey <akijoey@akijoey.com> (https://akijoey.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/akijoey/eslint-config/issues"
