@@ -6,9 +6,21 @@
 
 Personal eslint config.
 
-## Installation
+## Install
 
 `$ npm i @akijoey/eslint-config -D`
+
+## Usage
+
+Add to your eslint config:
+```json
+{
+  "extends": ["@akijoey"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
+```
 
 ## License
 
