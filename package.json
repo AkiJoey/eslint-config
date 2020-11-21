@@ -49,7 +49,7 @@
     }
   },
   "lint-staged": {
-    "*.js": "eslint",
-    "*": "prettier --write"
+    "*.js": "eslint --fix",
+    "*.{js,json,yml,md}": "prettier --write"
   }
 }
