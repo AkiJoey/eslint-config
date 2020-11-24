@@ -3,9 +3,9 @@
 
 
 "@akijoey/prettier-config@latest":
-  version "0.0.4"
-  resolved "https://registry.npm.taobao.org/@akijoey/prettier-config/download/@akijoey/prettier-config-0.0.4.tgz#4d35a0cedc0a564e0961b1e69321af9e2dd0910e"
-  integrity sha1-TTWgztwKVk4JYbHmkyGvni3QkQ4=
+  version "0.0.5"
+  resolved "https://registry.npm.taobao.org/@akijoey/prettier-config/download/@akijoey/prettier-config-0.0.5.tgz#ee712f53e484dda59d0a901797f83fa9591af521"
+  integrity sha1-7nEvU+SE3aWdCpAXl/g/qVka9SE=
 
 "@babel/code-frame@^7.0.0":
   version "7.10.4"
@@ -995,10 +995,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.npm.taobao.org/lines-and-columns/download/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@^10.5.1:
-  version "10.5.1"
-  resolved "https://registry.npm.taobao.org/lint-staged/download/lint-staged-10.5.1.tgz?cache=0&sync_timestamp=1604148318197&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flint-staged%2Fdownload%2Flint-staged-10.5.1.tgz#901e915c2360072dded0e7d752a0d9a49e079daa"
-  integrity sha1-kB6RXCNgBy3e0OfXUqDZpJ4Hnao=
+lint-staged@^10.5.2:
+  version "10.5.2"
+  resolved "https://registry.npm.taobao.org/lint-staged/download/lint-staged-10.5.2.tgz?cache=0&sync_timestamp=1606192311868&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flint-staged%2Fdownload%2Flint-staged-10.5.2.tgz#acfaa0093af3262aee3130b2e22438941530bdd1"
+  integrity sha1-rPqgCTrzJiruMTCy4iQ4lBUwvdE=
   dependencies:
     chalk "^4.1.0"
     cli-truncate "^2.1.0"
@@ -1618,14 +1618,14 @@ strip-json-comments@^3.1.0, strip-json-comments@^3.1.1:
 
 supports-color@^5.3.0:
   version "5.5.0"
-  resolved "https://registry.npm.taobao.org/supports-color/download/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
+  resolved "https://registry.npm.taobao.org/supports-color/download/supports-color-5.5.0.tgz?cache=0&sync_timestamp=1606205035829&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupports-color%2Fdownload%2Fsupports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
   integrity sha1-4uaaRKyHcveKHsCzW2id9lMO/I8=
   dependencies:
     has-flag "^3.0.0"
 
 supports-color@^7.1.0:
   version "7.2.0"
-  resolved "https://registry.npm.taobao.org/supports-color/download/supports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"
+  resolved "https://registry.npm.taobao.org/supports-color/download/supports-color-7.2.0.tgz?cache=0&sync_timestamp=1606205035829&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupports-color%2Fdownload%2Fsupports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"
   integrity sha1-G33NyzK4E4gBs+R4umpRyqiWSNo=
   dependencies:
     has-flag "^4.0.0"

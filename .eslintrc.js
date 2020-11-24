@@ -1,9 +1,5 @@
 // .eslintrc.js
 
 module.exports = {
-  extends: [
-    'standard',
-    'prettier',
-    'prettier/standard'
-  ]
+  extends: ['standard', 'prettier', 'prettier/standard']
 }
