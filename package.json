@@ -1,6 +1,6 @@
 {
   "name": "@akijoey/eslint-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Personal eslint config.",
   "main": "index.js",
   "files": [
@@ -10,7 +10,7 @@
   "scripts": {
     "lint": "eslint .",
     "test": "npm run lint",
-    "prettier": "prettier -w ."
+    "format": "prettier -w ."
   },
   "repository": {
     "type": "git",
@@ -45,9 +45,13 @@
     "eslint-plugin-promise": "^4.2.1"
   },
   "prettier": "@akijoey/prettier-config",
+  "commitlint": {
+    "extends": "@commitlint/config-conventional"
+  },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "lint-staged": {
