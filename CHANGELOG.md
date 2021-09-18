@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/akijoey/eslint-config/compare/v1.0.0...v1.0.1) (2021-09-18)
+
+
+### Bug Fixes
+
+* release config ([071ed72](https://github.com/akijoey/eslint-config/commit/071ed72c25e93362ca67c6ab6b3ee026a3754c4c))
+
 # 1.0.0 (2021-08-25)
 
 
