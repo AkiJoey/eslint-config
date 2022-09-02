@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/akijoey/eslint-config/compare/v1.0.4...v1.0.5) (2022-09-02)
+
+
+### Bug Fixes
+
+* upgrade dependencies ([03043d5](https://github.com/akijoey/eslint-config/commit/03043d541c8fc1c0dcebd3da3dd2191eca40946b))
+
 ## [1.0.4](https://github.com/akijoey/eslint-config/compare/v1.0.3...v1.0.4) (2022-08-29)
 
 
