@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/akijoey/eslint-config/compare/v1.0.5...v1.0.6) (2023-02-09)
+
+
+### Bug Fixes
+
+* build badge ([604c236](https://github.com/akijoey/eslint-config/commit/604c2367440e8a6e9c57c54c2eb03d428ff31217))
+
 ## [1.0.5](https://github.com/akijoey/eslint-config/compare/v1.0.4...v1.0.5) (2022-09-02)
 
 
