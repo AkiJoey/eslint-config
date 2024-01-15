@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/akijoey/eslint-config/compare/v1.0.7...v1.1.0) (2024-01-15)
+
+
+### Features
+
+* override typescript parser ([7879558](https://github.com/akijoey/eslint-config/commit/78795580455d03ec1fdd0525cf0e375966e2eedd))
+
 ## [1.0.7](https://github.com/akijoey/eslint-config/compare/v1.0.6...v1.0.7) (2024-01-12)
 
 
